@@ -1,0 +1,6 @@
+[submodule "LibraryResources/Source/Tensors"]
+	path = LibraryResources/Source/Tensors
+	url = git@github.com:HenrikSchumacher/Tensors.git
+[submodule "LibraryResources/Source/Repulsor"]
+	path = LibraryResources/Source/Repulsor
+	url = git@github.com:HenrikSchumacher/Repulsor.git
